@@ -31,5 +31,6 @@ public class Card {
 	// Method to describe the card 
 	public void describe() { 
 		System.out.println(name + " (value: " + value + ")"); 
+		//If the card is "Ace of Spades" with a value of 14, it will print: Ace of Spades (value: 14)
 	}
-}
+}    
